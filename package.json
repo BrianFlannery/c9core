@@ -31,7 +31,7 @@
         "qs": "0.6.6",
         "rusha": "0.8.5",
         "send": "~0.1.4",
-        "simple-mime": "~0.0.8",
+        "simple-mime": "~0.1.0",
         "tern": "git+https://github.com/cloud9ide/tern.git#39015d544d4c00c7899fea4c95c2e5bc2720e68e",
         "tern_from_ts": "git+https://github.com/cloud9ide/tern_from_ts.git#66df507986bbdd63f3bc4f0c53edb39169ce4f1c",
         "through": "2.2.0",
