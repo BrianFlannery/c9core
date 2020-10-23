@@ -18,7 +18,7 @@
         "ejs": "~2.7.1",
         "emmet": "git+https://github.com/cloud9ide/emmet-core.git#2ff6dc06ad",
         "engine.io": "1.6.9",
-        "engine.io-client": "1.6.9",
+        "engine.io-client": "4.0.1",
         "jsonm": "1.0.6",
         "http-error": "~0.0.5",
         "less": "^2.4.0",
