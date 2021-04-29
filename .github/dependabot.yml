@@ -1,0 +1,33 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: engine.io-client
+    versions:
+    - 3.5.1
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 5.0.0
+  - dependency-name: ws
+    versions:
+    - 7.4.2
+    - 7.4.3
+    - 7.4.4
+  - dependency-name: chai
+    versions:
+    - 4.2.0
+    - 4.3.0
+    - 4.3.1
+    - 4.3.3
+  - dependency-name: engine.io
+    versions:
+    - 4.1.0
+    - 4.1.1
+  - dependency-name: less
+    versions:
+    - 4.1.0
